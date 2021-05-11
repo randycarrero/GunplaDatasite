@@ -24,3 +24,4 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: chabad360/htmlproofer@v1.1
+      - run: chabad360/htmlproofer@v1.1
